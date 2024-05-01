@@ -1,14 +1,14 @@
 
-# Olá, me chamo Gisele!
+# Olá, me chamo Leonardo S Melo!
 
 ## Sobre mim
-Sou Gisele Araújo, tenho 27 anos, sou formada em Engenharia Sanitária e Ambiental pela Universidade Federal da Bahia e estou em transição de carreira para área Tech. Atualmente curso Tecnólogo em Analise e Desenvolvimento de Sistemas pela Universidade Salvador. Estudo direcionado a Java, OO, Spring Boot e SQL.
+Sou Leonardo, tenho 43 anos, sou formada em Ciência de Dados pela Universidade Cruzeiro do Sul Virtual e sou um "Veterano de guerra". Atualmente cursando Pós-graduação Engenharia de Machine Learning, Graduação Administrador de Banco de Dados(DBA). Estudo direcionado a Python, R, e SQL.
 
 ## Conecte-se comigo
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/AGisele)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselecaraujo/)
-[![Gmail]("https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:araujocgisele@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/leonsk/)
+
+
 
 <div align="center">
-  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AGisele&layout=compact&theme=tokyonight"/>
+  <img width="49%" height="195px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=leonsk5&layout=compact&theme=tokyonight"/>
 </div>
